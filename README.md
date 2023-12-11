@@ -13,7 +13,7 @@
 
 
 ### Пример
-![](https://github.com/shushanik-petrosyan/Data-Science-in-Economics/series.png)
+![](series.png)
 
 
 ## Задача 4: Поиск элементов в последовательностях
